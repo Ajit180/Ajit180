@@ -1,5 +1,3 @@
-
-
 <!--
 **Ajit180/Ajit180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,3 +56,90 @@ Here are some ideas to get you started:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## 🚀 Featured Projects
+
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
+
+<table style="border-spacing: 12px; background: none;">
+<!-- <tr>
+<td width="50%">
+<div style="background: #1A1B26; border-radius: 6px; padding: 12px 12px 20px 12px;">
+<h3 style="margin: 0;">🎬 Movie Search</h3>
+<div style="display: flex; gap: 8px; margin: 12px 0;">
+  <img height="20" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img height="20" src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat&logo=themoviedatabase&logoColor=white" />
+</div>
+<p style="font-size: 10px; margin: 8px 0;">Modern movie & TV platform with search</p>
+<div style="display: flex; gap: 8px;">
+  <a href="https://movie-search-nine-phi.vercel.app/">
+    <img height="20" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ajit180/Movie-Search">
+    <img height="20" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
+  </a>
+</div>
+</div>
+</td> -->
+<!-- <td width="50%">
+<div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
+<h3 style="margin: 0;">🌍 WorldWise</h3>
+<div style="display: flex; gap: 8px; margin: 12px 0;">
+  <img height="20" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img height="20" src="https://img.shields.io/badge/LEAFLET-199900?style=flat&logo=leaflet&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/CONTEXT_API-593D88?style=flat" />
+</div>
+<p style="font-size: 10px; margin: 8px 0;">Interactive travel companion for tracking your global adventures</p>
+<div style="display: flex; gap: 8px;">
+  <a href="https://world-wise-teal-seven.vercel.app">
+    <img height="20" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/bhupender2/WorldWise">
+    <img height="20" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
+  </a>
+</div>
+</div>
+</td>
+</tr>-->
+<tr>
+<td width="50%">
+<div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
+<h3 style="margin: 0;">💬 Slack Clone Chat</h3>
+<div style="display: flex; gap: 8px; margin: 12px 0;">
+  <img height="20" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img height="20" src="https://img.shields.io/badge/SOCKET.IO-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img height="20" src="https://img.shields.io/badge/EXPRESS-000000?style=flat&logo=express&logoColor=white" />
+</div>
+<p style="font-size: 10px; margin: 8px 0;">Feature-rich Team application with real-time messaging</p>
+<div style="display: flex; gap: 8px;">
+  <a href="https://frontend-message-slack.vercel.app/auth/signin">
+    <img height="20" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ajit180/Frontend-Message-Slack">
+    <img height="20" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
+  </a>
+</div>
+</div>
+</td>
+<td width="50%">
+<div style="background: #1A1B26; border-radius: 6px; padding: 12px;">
+<h3 style="margin: 0;">CryptoCoin Track</h3>
+<div style="display: flex; gap: 8px; margin: 12px 0;">
+  <img height="20" src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img height="20" src="https://img.shields.io/badge/TAILWIND-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+</div>
+<p style="font-size: 10px; margin: 8px 0;">Crypto Coin in which keep track of each Crypto Price and Details</p>
+<div style="display: flex; gap: 8px;">
+  <a href="https://crypto-tracker-three-sigma.vercel.app/">
+    <img height="20" src="https://img.shields.io/badge/DEMO-FF5722?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ajit180/Crypto-Tracker">
+    <img height="20" src="https://img.shields.io/badge/CODE-1B1F23?style=flat&logo=github&logoColor=white" />
+  </a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
