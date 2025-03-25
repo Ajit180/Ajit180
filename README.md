@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 <a href="https://drive.google.com/file/d/1sASXvJ6CHGreCPQ0v7u-DXRT0E9jZCYV/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume" />
 </a>
 
 </div>
