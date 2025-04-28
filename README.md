@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   "title": "Full Stack Developer",
   "currentProject": "Message Slack Clone",
   "passions": ["Clean Code", "User Experience", "Innovation"],
-  "learning": ["Redux", "TypeScript"],
+  "learning": ["Next.js", "TypeScript"],
 }
 ```
 
