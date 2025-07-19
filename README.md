@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 {
   "name": "Ajit Yadav",
   "title": "Full Stack Developer",
-  "currentProject": "Message Slack Clone",
+  "currentProject": "Stimart Ecommerce Project",
   "passions": ["Clean Code", "User Experience", "Innovation"],
   "learning": ["Next.js", "TypeScript"],
 }
