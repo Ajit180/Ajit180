@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   "title": "Full Stack Developer",
   "currentProject": "Stimart Ecommerce Project",
   "passions": ["Clean Code", "User Experience", "Innovation"],
-  "learning": ["Next.js", "TypeScript"],
+  "learning": ["GenAI with Javascript", "TypeScript"],
 }
 ```
 
