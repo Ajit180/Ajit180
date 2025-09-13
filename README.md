@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Ajit Yadav
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Expertise+in+Frontend+and+Backend+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Expertise+in+Frontend+and+Backend)](https://git.io/typing-svg)
 
 <a href="https://portfolio-website-xi-ten-15.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
